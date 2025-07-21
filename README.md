@@ -16,21 +16,33 @@ Administrator authentication (login)
 Student and grade report generation
 
 Technologies Used
-Java (Core and Servlet APIs)
+
+Java (Core and Servlet APIs) 
+
 Java Servlets (for backend logic)
+
 JSP (JavaServer Pages) or HTML/CSS/JavaScript (for frontend)
+
 JDBC (Java Database Connectivity)
+
 MySQL (Database)
+
 MySQL Connector/J (JDBC Driver)
+
 Apache Tomcat or similar servlet container (to run the web application)
+
 Eclipse, IntelliJ IDEA, or NetBeans IDE (for web project development)
 
 Prerequisites
 
 Java Development Kit (JDK) 8 or above
+
 Apache Tomcat or compatible servlet container
+
 MySQL Server installed and running
+
 MySQL Connector/J (download and add to your project libraries)
+
 IDE such as Eclipse, IntelliJ IDEA, or NetBeans (recommended)
 
 Database Setup
@@ -63,10 +75,5 @@ Start the Tomcat server.
 Access the application through your web browser at:
 http://localhost:8080/YourAppContext/
 
-Usage
-Once deployed, access the web interface in your browser. Use the provided forms to log in as an administrator and manage students, courses, and grades via the user-friendly interface.
-
-text
-http://localhost:8080/YourAppContext/
 Usage
 Once deployed, access the web interface in your browser. Use the provided forms to log in as an administrator and manage students, courses, and grades via the user-friendly interface.
