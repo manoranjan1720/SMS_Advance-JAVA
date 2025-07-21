@@ -49,7 +49,7 @@ Database Setup
 
 Create a new MySQL database (e.g., student_management).
 Create the necessary tables. Example for students:
-text
+
 CREATE TABLE students (
     student_id INT PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(100),
@@ -59,6 +59,7 @@ CREATE TABLE students (
 Update the database connection URL, username, and password in your Java code/configuration.
 
 How to Run
+
 Clone the repository:
 text
 git clone https://github.com/manoranjan1720/SMS_Advance-JAVA.git
@@ -72,8 +73,10 @@ Configure database connection details in the Java source code if needed.
 Build the project and deploy it to your Apache Tomcat server (usually as a WAR file).
 
 Start the Tomcat server.
+
 Access the application through your web browser at:
 http://localhost:8080/YourAppContext/
 
 Usage
+
 Once deployed, access the web interface in your browser. Use the provided forms to log in as an administrator and manage students, courses, and grades via the user-friendly interface.
