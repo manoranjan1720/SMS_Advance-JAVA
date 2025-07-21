@@ -1,6 +1,8 @@
 Student Management System (SMS) - Java Servlet
+
 Description
-The Student Management System (SMS) is a web-based application built using Java Servlets and JSP for managing student records, courses, and grades. The system allows administrators to add, update, view, and delete student data via a browser interface. All records are stored in a MySQL database, providing data persistence and reliability.
+The Student Management System (SMS) is a web-based application built using Java Servlets and JSP for managing student records, courses, and grades. 
+The system allows administrators to add, update, view, and delete student data via a browser interface. All records are stored in a MySQL database, providing data persistence and reliability.
 
 Features
 Add new student records
